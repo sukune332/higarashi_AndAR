@@ -1,0 +1,204 @@
+# 
+# Wavefront material file
+# Converted by 3D Exploration 1.6.00
+# XDimension Software, LLC
+# http://www.xdsoft.com/explorer/
+# 
+newmtl ktop
+	 Ka 0 0 0
+	 Kd 0.655 0.652431 0.644725
+	 Ks 0.2 0.199216 0.196863
+	 illum 2
+	 Ns 1024
+newmtl kmid
+	 Ka 0 0 0
+	 Kd 0.144314 0.373333 0.147451
+	 Ks 0.0360784 0.0933333 0.0368627
+	 illum 2
+	 Ns 1024
+newmtl kgray
+	 Ka 0 0 0
+	 Kd 0.52549 0.52549 0.52549
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+newmtl ktaillightoff
+	 Ka 0 0 0
+	 Kd 0.410824 0.0550588 0.0550588
+	 Ks 0.658078 0.0881961 0.0881961
+	 illum 2
+	 Ns 9.51366
+newmtl kbluelightoff
+	 Ka 0 0 0
+	 Kd 0.2 0.192157 0.486275
+	 Ks 0.194 0.186392 0.471686
+	 illum 2
+	 Ns 1024
+newmtl kmetal
+	 Ka 0 0 0
+	 Kd 0.297647 0.302157 0.302157
+	 Ks 0.225176 0.228588 0.228588
+	 illum 2
+	 Ns 30.91
+newmtl kheadlighton
+	 Ka 0 0 0
+	 Kd 0.195098 0.181373 0.154902
+	 Ks 0.15998 0.148725 0.12702
+	 illum 2
+	 Ns 8
+newmtl under
+	 Ka 0 0 0
+	 Kd 0 0 0
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+newmtl hub
+	 Ka 0 0 0
+	 Kd 0.443137 0.419608 0.4
+	 Ks 0.0443137 0.0419608 0.04
+	 illum 2
+	 Ns 64
+newmtl rim2
+	 Ka 0 0 0
+	 Kd 0.541176 0.572549 0.603922
+	 Ks 0.292235 0.309177 0.326118
+	 illum 2
+	 Ns 5.09824
+newmtl ktaillighton
+	 Ka 0 0 0
+	 Kd 0.410824 0.0550588 0.0550588
+	 Ks 0.658078 0.0881961 0.0881961
+	 illum 2
+	 Ns 9.51366
+newmtl kheadlightoff
+	 Ka 0 0 0
+	 Kd 0.195098 0.181373 0.154902
+	 Ks 0.675039 0.627549 0.535961
+	 illum 2
+	 Ns 9.51366
+newmtl kfnumber
+	 Ka 0 0 0
+	 Kd 0.144314 0.373333 0.147451
+	 Ks 0.0360784 0.0933333 0.0368627
+	 illum 2
+	 Ns 1024
+	 map_Kd numberf.bmp
+newmtl kbnumber
+	 Ka 0 0 0
+	 Kd 0.144314 0.373333 0.147451
+	 Ks 0.0360784 0.0933333 0.0368627
+	 illum 2
+	 Ns 1024
+	 map_Kd NUMBERB.bmp
+newmtl kwhite
+	 Ka 0 0 0
+	 Kd 0.784314 0.784314 0.784314
+	 Ks 0.0784314 0.0784314 0.0784314
+	 illum 2
+	 Ns 64
+newmtl kblack
+	 Ka 0 0 0
+	 Kd 0.0980392 0.0980392 0.0980392
+	 Ks 0.00980392 0.00980392 0.00980392
+	 illum 2
+	 Ns 64
+newmtl kglass
+	 Ka 0 0 0
+	 Kd 0.0581961 0.0644314 0.0457255
+	 Ks 0.0872941 0.0966471 0.0685882
+	 illum 2
+	 Ns 1024
+newmtl kgasket
+	 Ka 0 0 0
+	 Kd 0.25098 0.235294 0.223529
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+newmtl kskirt
+	 Ka 0 0 0
+	 Kd 0.323137 0.323137 0.323137
+	 Ks 0.0807843 0.0807843 0.0807843
+	 illum 2
+	 Ns 1024
+newmtl kunder
+	 Ka 0 0 0
+	 Kd 0.180392 0.180392 0.184314
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+newmtl ktopns
+	 Ka 0 0 0
+	 Kd 0.8 0.796863 0.787451
+	 Ks 0.2 0.199216 0.196863
+	 illum 2
+	 Ns 1024
+newmtl kfsign
+	 Ka 0 0 0
+	 Kd 0.298039 0.305882 0.305882
+	 Ks 0.0596078 0.0611765 0.0611765
+	 illum 2
+	 Ns 256
+	 map_Kd signf.bmp
+newmtl kwall
+	 Ka 0 0 0
+	 Kd 0.247059 0.188235 0.133333
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+newmtl rim
+	 Ka 0 0 0
+	 Kd 0.163176 0.15602 0.141706
+	 Ks 0.176588 0.168843 0.153353
+	 illum 2
+	 Ns 6.06287
+newmtl ksignglow
+	 Ka 0 0 0
+	 Kd 0.784314 0.784314 0.784314
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+newmtl krsign
+	 Ka 0 0 0
+	 Kd 0.298039 0.305882 0.305882
+	 Ks 0.0596078 0.0611765 0.0611765
+	 illum 2
+	 Ns 256
+	 map_Kd signb.bmp
+newmtl brakes
+	 Ka 0 0 0
+	 Kd 0.392157 0.360784 0.266667
+	 Ks 0.0392157 0.0360784 0.0266667
+	 illum 2
+	 Ns 64
+newmtl krnumber
+	 Ka 0 0 0
+	 Kd 0.144314 0.373333 0.147451
+	 Ks 0.0360784 0.0933333 0.0368627
+	 illum 2
+	 Ns 1024
+	 map_Kd NUMBERB.bmp
+newmtl kmidvent
+	 Ka 0 0 0
+	 Kd 0.144314 0.373333 0.147451
+	 Ks 0.0360784 0.0933333 0.0368627
+	 illum 2
+	 Ns 1024
+newmtl kdarkgray
+	 Ka 0 0 0
+	 Kd 0.313726 0.313726 0.313726
+	 Ks 0 0 0
+	 illum 2
+	 Ns 8
+newmtl klnumber
+	 Ka 0 0 0
+	 Kd 0.144314 0.373333 0.147451
+	 Ks 0.0360784 0.0933333 0.0368627
+	 illum 2
+	 Ns 1024
+	 map_Kd numberf.bmp
+newmtl fender
+	 Ka 0 0 0
+	 Kd 0.45098 0.423529 0.411765
+	 Ks 0.135294 0.127059 0.123529
+	 illum 2
+	 Ns 256
